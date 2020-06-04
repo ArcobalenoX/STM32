@@ -1,0 +1,10 @@
+PA5————ADC采集
+PA0————KEY_UP
+PE2 3 4————KEY0 1 2
+LED0————F9 F10
+PA7————PWM输出  TIM14CH1
+PB6 PB7————编码器 TIM4
+PA9 PA10 ————电机方向
+
+
+
